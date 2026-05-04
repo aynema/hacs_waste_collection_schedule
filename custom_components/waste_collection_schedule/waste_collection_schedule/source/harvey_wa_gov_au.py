@@ -18,8 +18,8 @@ TEST_CASES = {
         "suburb": "Harvey (east of railway to Highway including Weir Road)",
         "recycling_in_even_week": False,
     },
-    "Yarloop": {
-        "suburb": "Yarloop",
+    "Roelands": {
+        "suburb": "Roelands including Raymond Road",
         "recycling_in_even_week": True,
     },
 }
